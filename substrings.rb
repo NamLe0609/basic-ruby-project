@@ -1,5 +1,3 @@
-require "pry"
-
 def substrings(string, array)
     # Make string lowercase as method is case insensitive
     string.downcase!

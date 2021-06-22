@@ -24,10 +24,3 @@ def stock_picker(stock_prices)
     end
     best_outcome
 end
-
-stock_picker([9,1])
-
-
-
-
-
